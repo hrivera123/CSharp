@@ -1,0 +1,5 @@
+/Users/hellenrivera/Projects/assignment1/assignment1/obj/Debug/net7.0/assignment1.csproj.AssemblyReference.cache
+/Users/hellenrivera/Projects/assignment1/assignment1/obj/Debug/net7.0/assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hellenrivera/Projects/assignment1/assignment1/obj/Debug/net7.0/assignment1.AssemblyInfoInputs.cache
+/Users/hellenrivera/Projects/assignment1/assignment1/obj/Debug/net7.0/assignment1.AssemblyInfo.cs
+/Users/hellenrivera/Projects/assignment1/assignment1/obj/Debug/net7.0/assignment1.csproj.CoreCompileInputs.cache
